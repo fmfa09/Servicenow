@@ -36,7 +36,7 @@ function onChange(control, oldValue, newValue, isLoading) {
 
 ## 📬 Contato
 
-Se quiser trocar uma ideia ou colaborar com o repositório, me chama por aqui mesmo ou no [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/felipemichelettiferreira/).
+Se quiser trocar uma ideia ou colaborar com o repositório, me chama por aqui mesmo ou no https://www.linkedin.com/in/felipemichelettiferreira/
 
 ---
 
